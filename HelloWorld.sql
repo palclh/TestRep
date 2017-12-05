@@ -1,1 +1,1 @@
-SELECT 'Hello World' AS Message
+SELECT 'Hello World' AS Message;GO
